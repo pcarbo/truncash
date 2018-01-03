@@ -1,6 +1,6 @@
 ---
 title: "Setup for truncash project"
-author: "Peter Carbonetto"
+author: "Lei Sun"
 output: html_document
 ---
 
