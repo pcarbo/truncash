@@ -1,5 +1,5 @@
 ---
-title: "Setup for Divvy data analysis"
+title: "Setup for truncash project"
 author: "Peter Carbonetto"
 output: html_document
 ---

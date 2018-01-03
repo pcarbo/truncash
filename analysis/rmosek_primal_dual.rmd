@@ -24,11 +24,9 @@ knitr::read_chunk("chunks.R")
 ```{r code-version, echo=FALSE, results='asis'}
 ```
 
-<!-- Add your analysis here -->
-
 ## Introduction
 
-It has been [noted](https://lsun.github.io/truncash/mosek_reg.html) that in the specific maximum likelihood estimation problem, optimization runs faster in the dual form than in the primal one.  We are testing that with a simple numeric example.
+It has been [noted](mosek_reg.html) that in the specific maximum likelihood estimation problem, optimization runs faster in the dual form than in the primal one.  We are testing that with a simple numeric example.
 
 ## Problem
 
