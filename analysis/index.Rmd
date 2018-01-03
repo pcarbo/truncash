@@ -9,10 +9,10 @@ output:
 
 * [Matthew's initial observation on null, correlated data](voom_null.html)
 
-*All the results and plots presented in the pages below should be
+**Note:**  All the results and plots presented in the pages below should be
 reproduceable on your computer. Follow the [setup
 instructions](setup.html) if you are interested in reproducing
-the results for yourself.*
+the results for yourself.
 
 [Prof. Matthew Stephens](http://stephenslab.uchicago.edu) did a quick investigation of the p values and z scores obtained for simulated null data (using just voom transform, no correction) from real RNA-seq data of [GTEx](http://www.gtexportal.org/home).  Here is what he found.
 
@@ -52,7 +52,6 @@ It's very exploratory.  May be related to Extreme Value Thoery and Concentration
 * [Single most extreme observation](SingleExtOb.html)
 
 What will happen if we allow the threshold in `truncash` dependent on data?  Let's start from the case when we only know the single most extreme observation.
-
 
 * [Handling $t$ likelihood](t-likelihood.html)
 
