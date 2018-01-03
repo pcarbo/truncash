@@ -1,0 +1,10 @@
+TO DO
+-----
+
+* Fix license (see https://github.com/swcarpentry/git-novice and
+  https://rcc-uchicago.github.io/R-intro-divvy/license.html).
+
+* Fix header.html and footer.html.
+
+NOTES
+-----
